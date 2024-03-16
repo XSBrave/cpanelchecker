@@ -7,18 +7,30 @@
     
 </p>
 
-# TR Kullanım
+# "TR" Kullanım
 **Python'u Yükleyin**: Öncelikle, Python'un bilgisayarınızda yüklü olduğundan emin olun. Eğer yüklü değilse, Python'un resmi web sitesinden indirip yükleyebilirsiniz.
 
 **Gerekli Kütüphaneleri Yükleyin**: İhtiyacınız olan kütüphaneleri yüklemek için terminal veya komut istemcisinde aşağıdaki komutu çalıştırın:
 
-# TR Kullanım
+# "EN" Usage
+
+Install Python: First, make sure Python is installed on your computer. If it's not installed, you can download and install it from the official Python website.
+
+Install Required Libraries: To install the necessary libraries, run the following command in your terminal or command prompt:
+
+# "FR" Utilisation
+
+Installer Python : Tout d'abord, assurez-vous que Python est installé sur votre ordinateur. Si ce n'est pas le cas, vous pouvez le télécharger et l'installer depuis le site officiel de Python.
+
+Installer les bibliothèques requises : Pour installer les bibliothèques nécessaires, exécutez la commande suivante dans votre terminal ou votre invite de commande :
 
 
-```
-pip install requests
-python cpanelchecker.py
-```
+
+## Kurulum
+1. Repoyu klonlayın: `git clone https://github.com/KULLANICI_ADI/cpanel-checker.git`
+2. Proje dizinine gidin: `cd cpanel-checker`
+3. Uygulamayı çalıştırın: `python cpanel_checker.py`
+
 
 
 
