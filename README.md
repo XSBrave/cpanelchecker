@@ -18,6 +18,8 @@
 python cpanelchecker.py
 
 ```
+pip install requests
+
 
 
 
