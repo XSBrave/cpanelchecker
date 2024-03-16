@@ -14,11 +14,9 @@
 
 # Kullanım
 
-python cpanelchecker.py
 
 ```
 pip install requests
-
-
+python cpanelchecker.py
 
 
