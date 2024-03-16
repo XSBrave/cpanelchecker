@@ -38,9 +38,8 @@ Installer les bibliothèques requises : Pour installer les bibliothèques néces
 </p>
 
 <p align="center">
-(https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
 
-## Automatic CPanel Checker Tool
+## Automatic CPanel Checker 
 
 
 </p>
