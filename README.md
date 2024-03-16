@@ -26,11 +26,20 @@ Installer les bibliothèques requises : Pour installer les bibliothèques néces
 
 
 
-## Kurulum
+## TR Kurulum
 1. Repoyu klonlayın: `git clone https://github.com/XSBrave/cpanelchecker`
 2. Proje dizinine gidin: `cd cpanelchecker`
 3. Uygulamayı çalıştırın: `python cpanelchecker.py`
 
+## EN Installation
+1. Clone the repository: `git clone https://github.com/XSBrave/cpanelchecker`
+2. Navigate to the project directory: `cd cpanelchecker`
+3. Run the application: `python cpanelchecker.py`
+
+## FR ### Installation
+1. Clonez le dépôt : `git clone https://github.com/XSBrave/cpanelchecker`
+2. Accédez au répertoire du projet : `cd cpanelchecker`
+3. Exécutez l'application : `python cpanelchecker.py`
 
 <p align="center">
     <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="version">
