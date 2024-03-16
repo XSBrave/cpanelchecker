@@ -12,7 +12,6 @@
 
 **Gerekli Kütüphaneleri Yükleyin**: İhtiyacınız olan kütüphaneleri yüklemek için terminal veya komut istemcisinde aşağıdaki komutu çalıştırın:
 
-```pip install requests```
 # Kullanım
 
 python cpanelchecker.py
