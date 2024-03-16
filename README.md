@@ -38,7 +38,14 @@ Installer les bibliothèques requises : Pour installer les bibliothèques néces
 </p>
 
 <p align="center">
-    Bu basit araç, bir liste içindeki alan adları için CPanel erişimini kontrol eder. CPanel'e başarılı bir şekilde erişilebilen alan adları bir dosyaya kaydedilir.
+![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
+
+## Automatic CPanel Parser Tool
+
+With this tool, you can automatically parse the CPanels you have.
+
+
+
 </p>
 
 
