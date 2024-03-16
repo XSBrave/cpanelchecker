@@ -38,12 +38,9 @@ Installer les bibliothèques requises : Pour installer les bibliothèques néces
 </p>
 
 <p align="center">
-![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
+(https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
 
-## Automatic CPanel Parser Tool
-
-With this tool, you can automatically parse the CPanels you have.
-
+## Automatic CPanel Checker Tool
 
 
 </p>
