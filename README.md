@@ -18,7 +18,7 @@
 ```
 pip install requests
 python cpanelchecker.py
-
+```
 
 
 
