@@ -7,16 +7,22 @@
     
 </p>
 
-# Kullanım
+# TR Kullanım
 **Python'u Yükleyin**: Öncelikle, Python'un bilgisayarınızda yüklü olduğundan emin olun. Eğer yüklü değilse, Python'un resmi web sitesinden indirip yükleyebilirsiniz.
 
 **Gerekli Kütüphaneleri Yükleyin**: İhtiyacınız olan kütüphaneleri yüklemek için terminal veya komut istemcisinde aşağıdaki komutu çalıştırın:
 
-# Kullanım
+# TR Kullanım
 
 
 ```
 pip install requests
 python cpanelchecker.py
+
+
+
+
+https://github.com/XSBrave/cpanelchecker/assets/106927628/235518a9-ae82-49f9-80e0-f73126bc47eb
+
 
 
