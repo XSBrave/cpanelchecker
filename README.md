@@ -4,5 +4,15 @@
     <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="license">
 </p>
 <p align="center">
-    Bu basit araç, bir liste içindeki alan adları için CPanel erişimini kontrol eder. CPanel'e başarılı bir şekilde erişilebilen alan adları bir dosyaya kaydedilir.
+    
 </p>
+
+# Kullanım
+**Python'u Yükleyin**: Öncelikle, Python'un bilgisayarınızda yüklü olduğundan emin olun. Eğer yüklü değilse, Python'un resmi web sitesinden indirip yükleyebilirsiniz.
+
+**Gerekli Kütüphaneleri Yükleyin**: İhtiyacınız olan kütüphaneleri yüklemek için terminal veya komut istemcisinde aşağıdaki komutu çalıştırın:
+
+```pip install requests```
+
+
+
