@@ -54,8 +54,3 @@ Installer les bibliothèques requises : Pour installer les bibliothèques néces
 </p>
 
 
-
-https://github.com/XSBrave/cpanelchecker/assets/106927628/235518a9-ae82-49f9-80e0-f73126bc47eb
-
-
-
