@@ -48,9 +48,4 @@ Installer les bibliothèques requises : Pour installer les bibliothèques néces
 
 <p align="center">
 
-## Automatic CPanel Checker 
-
-
-</p>
-
 
